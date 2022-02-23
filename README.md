@@ -1,10 +1,12 @@
 # Goblins
 Here is my final project I made for Introduction to Python.
-The goal of the game is to try and get to 1000 points before time runs out.
-You move with the left and right arrow keys and shoot with spacebar.
-To get points you have to shoot the green objects.
-You have 60 seconds.
-It uses graphics and all the stuff I learned throughout the semester to achieve this final game.
+<ul>
+  <li>The goal of the game is to try and get to 1000 points before time runs out.<li>
+  You move with the left and right arrow keys and shoot with spacebar.
+  To get points you have to shoot the green objects.
+  You have 60 seconds.
+  It uses graphics and all the stuff I learned throughout the semester to achieve this final game.
+</ul>
 Here is the layouts:
 
 <img width="501" alt="start" src="https://user-images.githubusercontent.com/100312747/155403760-860e76f8-fd6b-40d7-8a21-d7da5ab7febb.png">
